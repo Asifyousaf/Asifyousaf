@@ -2,19 +2,25 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
-<p align="left">![Profile Views](https://komarev.com/ghpvc/?username=asifyousaf&label=Profile+views&color=0e75b6&style=flat) </p>
+![Profile Views](https://komarev.com/ghpvc/?username=asifyousaf&label=Profile+views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **I’m currently working on Data-driven web solutions and AI integrations**
+[![Trophies](https://github-profile-trophy.vercel.app/?username=asifyousaf&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I'm currently learning **I’m currently learning Advanced Deep Learning & NLP**
+---
 
-- 📫 How to reach me **asifyousaf14@gmail.com**
+- 🔭 I'm currently working on **Data-driven web solutions and AI integrations**
 
-- ⚡ Fun fact **I combine Creative Computing with AI Logic**
+- 🌱 I'm currently learning **Advanced Deep Learning & NLP**
 
-- 👨‍💻 All of my projects are available at **[https://asif-portfolio-theta.vercel.app/](https://asif-portfolio-theta.vercel.app/)**
+- ⚡ Fun fact: **I combine Creative Computing with AI Logic**
 
-- 📄 Know about my experiences **[https://github.com/Asifyousaf/MyPortfolio.github.io/raw/main/Asif%20CV.pdf](https://github.com/Asifyousaf/MyPortfolio.github.io/raw/main/Asif%20CV.pdf)**
+- 📫 Reach me at: **asifyousaf14@gmail.com**
+
+- 👨‍💻 View my projects: **[asif-portfolio-theta.vercel.app](https://asif-portfolio-theta.vercel.app/)**
+
+- 📄 My Resume: **[Download CV](https://github.com/Asifyousaf/MyPortfolio.github.io/raw/main/Asif%20CV.pdf)**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +31,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifyousaf&show_icons=true&locale=en&layout=compact" alt="asifyousaf" /></p>
+<p align="left"> 
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv,keras" alt="AI Stack" /></a>
+<br/>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,figma" alt="Web Stack" /></a>
+<br/>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,flutter,androidstudio,kotlin,unity,blender" alt="Tools" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifyousaf&show_icons=true&locale=en" alt="asifyousaf" /></p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifyousaf&show_icons=true&locale=en&theme=dark" alt="asifyousaf" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifyousaf&show_icons=true&locale=en&layout=compact&theme=dark" alt="asifyousaf" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifyousaf&theme=dark&hide_border=true" alt="streak stats" />
+</div>
