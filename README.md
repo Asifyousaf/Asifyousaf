@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifyousaf&label=Profile views&color=0e75b6&style=flat" alt="asifyousaf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifyousaf&label=Profile views&color=0e75b6&style=flat" alt="Asifyousaf" /> </p>
 
 - 🔭 I'm currently working on **I’m currently working on Data-driven web solutions and AI integrations**
 
