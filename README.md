@@ -4,8 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asifyousaf&label=Profile+views&color=0e75b6&style=flat)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asifyousaf&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 - 🔭 I'm currently working on **Data-driven web solutions and AI integrations**
